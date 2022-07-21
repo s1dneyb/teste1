@@ -1,0 +1,9 @@
+1 - Baixar e o node.js https://nodejs.org/en/
+2- Baixar o visual stutioCode
+https://code.visualstudio.com
+3 - Fazer o clone do projeto no GitHub: https://github.com/s1dneyb/teste1.git
+4 - Abrir o visual studioCode e abrir a pasta do
+projeto
+5 - Abrir o terminal e digitar o seguinte comando: npx cypress open
+6 - Irá abrir uma janela do cypress e clicar no
+automacao.spec.js
